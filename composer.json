@@ -1,6 +1,6 @@
 {
     "name": "vmgame/coffee",
-    "description": "Coffee is a php framework",
+    "description": "Coffee is a php framework!",
     "require": {
     "php": ">=5.3.0",
         "swiftmailer/swiftmailer": "@stable"
